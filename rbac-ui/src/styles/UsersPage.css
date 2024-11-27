@@ -1,0 +1,47 @@
+.container {
+    margin: 20px auto;
+    width: 80%;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .form {
+    margin: 20px 0;
+  }
+  
+  .form input,
+  .form select,
+  .form button {
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  .user-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-list table th,
+  .user-list table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .user-list table th {
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 2px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ddd;
+  }
+  
